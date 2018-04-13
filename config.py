@@ -1,6 +1,6 @@
 # configure the dm text
 def generate_dm_text(name):
-	return '''Hey {}, thanks for the follow! While you're here, could you tell us one thing that'd ease your pain when handling images? We're hunting for new ways to improve Sirv in 2018.'''.format(name)
+	return '''Hey {}, thanks for the follow! Quick question - what's your biggest problem when dealing with website images?'''.format(name)
 
 scheduler_time = 15 #in minutes
 
